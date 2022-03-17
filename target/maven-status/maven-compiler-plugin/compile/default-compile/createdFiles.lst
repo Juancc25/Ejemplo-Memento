@@ -1,0 +1,5 @@
+memento\Memento.class
+memento\Juego.class
+memento\Originator.class
+com\mycompany\memento3\App.class
+memento\Caretaker.class
